@@ -12,12 +12,12 @@ The designs were created to the following widths:
 ### Primary
 
 - Pale blue: hsl(225, 100%, 94%)
-- Bright blue: hsl(245, 75%, 52%)
+- Bright blue: hsl(245, 75%, 52%) button
 
 ### Neutral
 
-- Very pale blue: hsl(225, 100%, 98%)
-- Desaturated blue: hsl(224, 23%, 55%)
+- Very pale blue: hsl(225, 100%, 98%) text
+- Desaturated blue: hsl(224, 23%, 55%) button cancel
 - Dark blue: hsl(223, 47%, 23%)
 
 ## Typography
@@ -27,6 +27,5 @@ The designs were created to the following widths:
 - Font size (paragraph): 16px
 
 ### Font
-
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
 - Weights: 500, 700, 900
